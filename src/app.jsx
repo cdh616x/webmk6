@@ -1,10 +1,11 @@
 //jshint esversion:6
 import React from "react";
-import { Link } from "react-router-dom";
 
 import Navbar from "./components/navbar.jsx";
 import Greeting from "./components/greeting.jsx";
-import About from "./components/about.jsx"
+import About from "./components/about.jsx";
+import Programming from "./components/programming.jsx";
+import Carousel from "./components/carousel.jsx";
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
     <Navbar />
     <Greeting />
     <About />
+    <Programming />
+    <Carousel />
     </div>
   );
 }

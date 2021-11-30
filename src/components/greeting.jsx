@@ -6,17 +6,16 @@ let day = new Date();
 let hour = day.getHours();
 let whatDay = day.getDay();
 let whatTime = "";
-let currentDay = "";
 
 export default function Greeting() {
   if (hour < 8) {
     whatTime = "Good morning early bird!";
   } else if (hour < 12) {
-    whatTime = "Good morning;"
+    whatTime = "Good morning;";
   } else if (hour < 18) {
-    whatTime = "Good afternoon;"
+    whatTime = "Good afternoon;";
   } else {
-    whatTime = "Good evening;"
+    whatTime = "Good evening;";
   }
 
   if (whatDay === 0) {
@@ -24,7 +23,7 @@ export default function Greeting() {
   } else if (whatDay === 1) {
     whatDay = "Monday";
   } else if (whatDay === 2) {
-    whatDay= "Tuesday"
+    whatDay= "Tuesday";
   } else if (whatDay === 3) {
     whatDay = "Wednesday";
   } else if (whatDay === 4) {
@@ -36,8 +35,19 @@ export default function Greeting() {
   }
   return(
   <>
+  <div className="container-fluid greeting">
   <h1 className="greeting">{whatTime} happy {whatDay}!</h1>
   <p className="greeting">I am Collin, a programmer</p>
+  <h3>
+          <a href="https://github.com/cdh616x/webmk2" target="_blank" rel="noreferrer">
+            <i className="fab fa-github-square github" />
+          </a>
+          ||
+          <a href="https://www.linkedin.com/in/collin-hooper-0826b919b/" target="_blank" rel="noreferrer">
+            <i className="fab fa-linkedin github" />
+          </a>
+        </h3>
+  </div>
   </>
 )
 };

@@ -2,6 +2,7 @@
 import React from "react";
 
 import Navbar from "../../src/components/navbar.jsx";
+import Sixes from "../../src/images/sixes.png";
 
 export default function Goodies() {
   return (
@@ -32,7 +33,7 @@ export default function Goodies() {
           <div class="col">
             <a href="https://soundcloud.com/user-228624729" target="_blank">
               <div class="container-fluid">
-                <img class="img-fluid resize-small" src="Images/sixes-ep.png" alt="" />
+                <img class="img-fluid" src={Sixes} alt="" />
               </div>
               <h3>Sixes EP - 2019</h3>
             </a>
