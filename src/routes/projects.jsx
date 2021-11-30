@@ -1,15 +1,19 @@
 //jshint esversion:6
 import React from "react";
 
+import Footer from "../components/footer.jsx"
+
 import Navbar from "../../src/components/navbar.jsx";
 import Andy from "../images/andy-site.png";
+import Ski from "../images/sss.png";
+import Drum from "../images/drumkit.png";
 
 export default function Projects() {
   return(
     <>
      <Navbar />
       <section id="links">
-      <div className="container-fluid">
+      <div className="container-fluid proj">
         <h1>Projects</h1>
         <p>
           <a href="https://cdh616x.github.io/andy/" target="_blank">Andy Shaw Illustrations</a>
@@ -36,7 +40,7 @@ export default function Projects() {
           <h3><i className="fab fa-github-square"><h5>Source Code</h5></i></h3>
         </a>
         <a href="https://cdh616x.github.io/skis-sub-shop/" target="_blank">
-          <img className="img-fluid" src="Images/sss-site.png" alt="" />
+          <img className="img-fluid" src={Ski} alt="" />
         </a>
       </div>
       <div className="container-fluid">
@@ -44,10 +48,11 @@ export default function Projects() {
           <h3><i className="fab fa-github-square"><h5>Source Code</h5></i></h3>
         </a>
         <a href="https://cdh616x.github.io/drumkit/" target="_blank">
-          <img className="img-fluid bottom" src="Images/drum-site.png" alt="" />
+          <img className="img-fluid bottom" src={Drum} alt="" />
         </a>
       </div>
     </section>
+    <Footer />
     </>
   );
 }

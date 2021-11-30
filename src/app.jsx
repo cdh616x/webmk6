@@ -6,6 +6,7 @@ import Greeting from "./components/greeting.jsx";
 import About from "./components/about.jsx";
 import Programming from "./components/programming.jsx";
 import Carousel from "./components/carousel.jsx";
+import Footer from "./components/footer.jsx";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
     <About />
     <Programming />
     <Carousel />
+    <Footer />
     </div>
   );
 }

@@ -7,7 +7,7 @@ import Skull from "../../src/images/Skull1.png"
 export default function Navbar() {
   return (
     <div>
-    <nav className="navbar navbar-expand-lg navbar-light bg-#062743" style={{backgroundColor: "#B91646"}}>
+    <nav className="navbar navbar-expand-lg navbar-light bg-#062743" style={{backgroundColor: "#B91646", fontFamily: "Enigmatic, sans serif"}}>
       <Link className="navbar-brand" to="/">
           <img src={Skull} width="50" height="50" alt="mnm" />
           LZ Labs

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Carousel() {
   return(
-    <section id="carousel">
+    <section id="carousel" style={{marginRight: "10%", marginLeft: "10%"}}>
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000" pause="hover">
       <div class="carousel-inner">
         <div class="carousel-item active">

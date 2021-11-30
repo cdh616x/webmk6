@@ -1,6 +1,7 @@
 //jshint esversion:6
 import React from "react";
 
+import Footer from "../components/footer.jsx";
 import Navbar from "../../src/components/navbar.jsx";
 import Sixes from "../../src/images/sixes.png";
 
@@ -69,6 +70,7 @@ export default function Goodies() {
       </section>
     </div>
   </div>
+  <Footer />
   </>
   )
 };

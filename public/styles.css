@@ -102,6 +102,40 @@ p.greeting {
   color: #B91646;
 }
 
+.carousel-inner {
+  background-color: #FBF3E4;
+  font-family: "Enigmatic", sans-serif;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 10%;
+}
+
+.carousel-inner h3 {
+  text-align: center;
+}
+
+.carousel h4 {
+  text-align: center;
+}
+
+#footer h5 {
+  font-size: 1vw;
+  color: #FBF3E4;
+  font-family: "Enigmatic", sans-serif;
+  text-align: center;
+}
+
+.proj {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  font-family: "Enigmatic", sans-serif;
+}
+
+.img-fluid {
+  padding-bottom: 5%;
+}
+
 body {
   background: linear-gradient(#FBF3E4, #105652);
 }
