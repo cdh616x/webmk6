@@ -1,0 +1,149 @@
+.greeting {
+  color: #105652;
+  font-family: "Cumulus", sans-serif;
+  text-align: center;
+}
+
+.github{
+  color: #105652;
+  text-align: center;
+}
+
+.github:hover {
+  color: #B91646;
+}
+
+h1.greeting {
+  padding-top: 150px;
+  font-size: 5vw;
+}
+
+p.greeting {
+  font-size: 2.5vw;
+}
+
+.greeting h3 {
+  padding-bottom: 150px;
+}
+
+.d-block {
+  height: 500px;
+}
+
+.about-text, .jane {
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: justify;
+}
+
+.jane {
+  font-family: "JaneAusten", sans-serif;
+  color: #B91646;
+  text-shadow: 2px 1px grey;
+}
+
+.about-text {
+  color: #FBF3E4;
+  font-family: "Enigmatic", sans-serif;
+}
+
+#programming {
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.card-title, .card-text {
+  color: #FBF3E4;
+  font-family: "Enigmatic", sans-serif;
+}
+
+.card-title {
+  text-decoration: underline;
+}
+
+.cb1 {
+  background-color: #C7456B;
+}
+
+.cb2 {
+  background-color: #B91646;
+  text-align: center;
+}
+
+.cb3 {
+  background-color: #820F31;
+  text-align: right;
+}
+
+#music h4, #music h3 {
+  text-align: center;
+}
+
+#music h1, #bio h1 {
+  padding-top: 5%;
+  font-family: "Enigmatic", sans-serif;
+  text-align: center;
+}
+
+.bio {
+  font-family: "Enigmatic", sans-serif;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: justify;
+}
+
+#music a {
+  color: #FBF3E4;
+  font-family: "Enigmatic", sans-serif;
+  text-decoration: none;
+}
+
+#music a:hover {
+  color: #B91646;
+}
+
+.carousel-inner {
+  background-color: #FBF3E4;
+  font-family: "Enigmatic", sans-serif;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 10%;
+}
+
+.carousel-inner h3 {
+  text-align: center;
+}
+
+.carousel h4 {
+  text-align: center;
+}
+
+#footer h5 {
+  font-size: 1vw;
+  color: #FBF3E4;
+  font-family: "Enigmatic", sans-serif;
+  text-align: center;
+}
+
+.proj {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  font-family: "Enigmatic", sans-serif;
+}
+
+.img-fluid {
+  padding-bottom: 5%;
+}
+
+body {
+  background: linear-gradient(#FBF3E4, #105652);
+}
+
+html, body {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
