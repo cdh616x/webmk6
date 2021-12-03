@@ -85,6 +85,13 @@ p.greeting {
   text-align: center;
 }
 
+#music h5 {
+  font-size: 1vw;
+  color: #FBF3E4;
+  font-family: "Enigmatic", sans-serif;
+  text-align: justify;
+}
+
 .bio {
   font-family: "Enigmatic", sans-serif;
   padding-left: 10%;
