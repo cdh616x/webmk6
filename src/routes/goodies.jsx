@@ -9,11 +9,11 @@ export default function Goodies() {
   return (
     <>
     <Navbar />
-    <div class="row">
-    <div class="col-lg-6">
+    <div className="row">
+    <div className="col-lg-6">
       <section id="bio">
         <h1>Biography</h1>
-        <div class="container-fluid bio">
+        <div className="container-fluid bio">
           <p>My name is Collin Hooper. Born in the late 90s in Grand Rapids, Michigan, I find myself learning all I possibly can about front- and backend development and applying that knowledge to my expanding portfolio of projects. I always knew
             that I would end up working with technology, but I was quite meandering and wayward in my search, not knowing I wanted to be a programmer until I was two years out of college.</p>
           <p>Rockford High School offered a lot of resources to budding professionals, like a strong foreign language department, but unfortunately did not offer much in the way of computer science of programming. Originally, I wanted to be in the
@@ -26,15 +26,15 @@ export default function Goodies() {
         </div>
       </section>
     </div>
-    <div class="col-lg-6 col-sm-12">
+    <div className="col-lg-6 col-sm-12">
       <section id="music">
         <h1>Goodies & Extras</h1>
         <p></p>
-        <div class="row">
-          <div class="col">
+        <div className="row">
+          <div className="col">
             <a href="https://soundcloud.com/user-228624729" target="_blank">
-              <div class="container-fluid">
-                <img class="img-fluid" src={Sixes} alt="" />
+              <div className="container-fluid">
+                <img className="img-fluid" src={Sixes} alt="" />
               </div>
               <h3>Sixes EP - 2019</h3>
             </a>
@@ -65,7 +65,7 @@ export default function Goodies() {
               <h4>
                 <a href="https://soundcloud.com/user-228624729/untitled" target="_blank">Untitled</a>
               </h4>
-              <h5>This is my freshman album. It was recorded in a bedroom studio in September and October 2019 and it unmastered. My favorite songs on this album include the Water Song, I Got Mine, Untitled, and So Much to Do.</h5>
+              <h5 className="album">This is my freshman album. It was recorded in a bedroom studio in September and October 2019 and it unmastered. My favorite songs on this album include the Water Song, I Got Mine, Untitled, and So Much to Do.</h5>
           </div>
         </div>
       </section>

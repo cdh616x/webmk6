@@ -85,7 +85,7 @@ p.greeting {
   text-align: center;
 }
 
-#music h5 {
+#music .album {
   font-size: 1vw;
   color: #FBF3E4;
   font-family: "Enigmatic", sans-serif;
