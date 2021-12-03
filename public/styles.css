@@ -144,7 +144,9 @@ p.greeting {
 }
 
 .contact {
-  color: red;
+  color: #FBF3E4;
+  font-family: "Enigmatic", sans-serif;\
+  text-align: center;
 }
 
 body {

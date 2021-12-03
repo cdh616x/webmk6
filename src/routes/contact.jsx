@@ -8,7 +8,10 @@ export default function Contact() {
   return(
     <>
     <Navbar />
-      <h1 className="contact">Send me and email!</h1>
+      <h1 className="contact">More elegant looking page coming soon!</h1>
+      <a href="mailto:cdhprof@gmail.com">
+      <h2 className="contact">In the mean-time, shoot me an email by clicking here!</h2>
+      </a>
     <Footer />
     </>
   );
