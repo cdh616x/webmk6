@@ -65,6 +65,7 @@ export default function Goodies() {
               <h4>
                 <a href="https://soundcloud.com/user-228624729/untitled" target="_blank">Untitled</a>
               </h4>
+              <h5 className="album">This is my freshman album. It was recorded in September and October 2019 and is unmastered. My favorite songs include So Much To Do, the Water Song, I Got Mine, and Untitled.</h5>
           </div>
         </div>
       </section>
