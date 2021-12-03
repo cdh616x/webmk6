@@ -10,7 +10,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-light bg-#062743" style={{backgroundColor: "#B91646", fontFamily: "Enigmatic, sans serif"}}>
       <Link className="navbar-brand" to="/">
           <img src={Skull} height="50" width="50" alt="mnm" />
-          LZ Labs
+          CDH Create
       </Link>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
