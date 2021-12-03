@@ -1,3 +1,5 @@
+//jshint esversion:6
+
 import { render } from "react-dom";
 import {
   BrowserRouter,
@@ -7,7 +9,8 @@ import {
 
 import App from "./app.jsx";
 import Projects from "./routes/projects";
-import Goodies from "./routes/goodies"
+import Goodies from "./routes/goodies";
+import Contact from "./routes/contact";
 
 
 const rootElement = document.getElementById("root");
