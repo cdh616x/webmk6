@@ -29,7 +29,6 @@ export default function Goodies() {
     <div className="col-lg-6 col-sm-12">
       <section id="music">
         <h1>Goodies & Extras</h1>
-        <p></p>
         <div className="row">
           <div className="col">
             <a href="https://soundcloud.com/user-228624729" target="_blank">

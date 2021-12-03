@@ -86,10 +86,14 @@ p.greeting {
 }
 
 #music .album {
-  font-size: 1vw;
+  font-size: 1.3vw;
   color: #FBF3E4;
   font-family: "Enigmatic", sans-serif;
   text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 10%;
+  padding-top: 3%;
 }
 
 .bio {
