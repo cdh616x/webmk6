@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.9d2305b4.chunk.js",
-    "main.js.map": "/static/js/main.9d2305b4.chunk.js.map",
+    "main.js": "/static/js/main.b8d7c2ca.chunk.js",
+    "main.js.map": "/static/js/main.b8d7c2ca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.327e7669.js",
     "runtime-main.js.map": "/static/js/runtime-main.327e7669.js.map",
     "static/js/2.768ed625.chunk.js": "/static/js/2.768ed625.chunk.js",
@@ -9,7 +9,7 @@
     "index.html": "/index.html",
     "static/js/2.768ed625.chunk.js.LICENSE.txt": "/static/js/2.768ed625.chunk.js.LICENSE.txt",
     "static/media/andy-site.beb5253f.png": "/static/media/andy-site.beb5253f.png",
-    "static/media/cdh.84c68633.xcf": "/static/media/cdh.84c68633.xcf",
+    "static/media/cdh.4d0d76d2.png": "/static/media/cdh.4d0d76d2.png",
     "static/media/drumkit.8212a333.png": "/static/media/drumkit.8212a333.png",
     "static/media/me1.db6ed819.png": "/static/media/me1.db6ed819.png",
     "static/media/sixes.e6d1fc12.png": "/static/media/sixes.e6d1fc12.png",
@@ -18,6 +18,6 @@
   "entrypoints": [
     "static/js/runtime-main.327e7669.js",
     "static/js/2.768ed625.chunk.js",
-    "static/js/main.9d2305b4.chunk.js"
+    "static/js/main.b8d7c2ca.chunk.js"
   ]
 }
