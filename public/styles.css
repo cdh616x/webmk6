@@ -145,8 +145,12 @@ p.greeting {
 
 .contact {
   color: #FBF3E4;
-  font-family: "Enigmatic", sans-serif;\
+  font-family: "Enigmatic", sans-serif;
   text-align: center;
+}
+
+.contact a {
+  text-decoration: none;
 }
 
 body {
