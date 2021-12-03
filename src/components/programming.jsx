@@ -31,7 +31,7 @@ export default function Programming() {
             <div className="card-text">
               <h5>Node.js, Express</h5>
               <h5>API use and integration</h5>
-              <h5>Bash</h5>
+              <h5>Python</h5>
             </div>
           </div>
           </div>
@@ -44,8 +44,9 @@ export default function Programming() {
             </div>
             <div className="card-text">
               <h5>R, RStudio</h5>
-              <h5>Python</h5>
+              <h5>Git & Bash</h5>
               <h5>GitHub/Version Control Software</h5>
+              <h5>Experience with web hosting</h5>
             </div>
           </div>
           </div>
