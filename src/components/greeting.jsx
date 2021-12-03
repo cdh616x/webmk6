@@ -6,10 +6,12 @@ let day = new Date();
 let hour = day.getHours();
 let whatDay = day.getDay();
 let whatTime = "";
+let word = "happy";
 
 export default function Greeting() {
   if (hour < 8) {
     whatTime = "Good morning early bird!";
+    word = "Happy";
   } else if (hour < 12) {
     whatTime = "Good morning;";
   } else if (hour < 18) {
@@ -36,7 +38,7 @@ export default function Greeting() {
   return(
   <>
   <div className="container-fluid greeting">
-  <h1 className="greeting">{whatTime} happy {whatDay}!</h1>
+  <h1 className="greeting">{whatTime} {word} {whatDay}!</h1>
   <p className="greeting">I am Collin, a programmer</p>
   <h3>
           <a href="https://github.com/cdh616x/webmk2" target="_blank" rel="noreferrer">
