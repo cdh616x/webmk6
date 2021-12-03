@@ -20,6 +20,7 @@ render(
     <Route path="/" element={<App />} />
     <Route path="/projects" element={<Projects />} />
     <Route path="/goodies" element={<Goodies />} />
+    <Route path="/contact" element={<Contact />} />
   </Routes>
  </BrowserRouter>,
   document.getElementById('root')
