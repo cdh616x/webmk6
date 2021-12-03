@@ -143,6 +143,10 @@ p.greeting {
   padding-bottom: 5%;
 }
 
+.contact {
+  color: red;
+}
+
 body {
   background: linear-gradient(#FBF3E4, #105652);
 }
