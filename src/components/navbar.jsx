@@ -2,7 +2,7 @@
 
 import React from "react";
 import { Link } from "react-router-dom";
-import Skull from "../../src/images/Skull1.png"
+import Skull from "../../src/images/cdh.xcf"
 
 export default function Navbar() {
   return (
