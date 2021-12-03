@@ -17,7 +17,7 @@ export default function Programming() {
               <h5>HTML5, CSS3, JavaScript</h5>
               <h5>React</h5>
               <h5>Bootstrap5</h5>
-              <h5>jQuery</h5>
+              <h5>jQuery & DOM manipulation</h5>
             </div>
           </div>
           </div>
