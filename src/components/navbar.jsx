@@ -9,7 +9,7 @@ export default function Navbar() {
     <div>
     <nav className="navbar navbar-expand-lg navbar-light bg-#062743" style={{backgroundColor: "#B91646", fontFamily: "Enigmatic, sans serif"}}>
       <Link className="navbar-brand" to="/">
-          <img src={Skull} width="50" height="50" alt="mnm" />
+          <img className="img-fluid"src={Skull} alt="mnm" />
           LZ Labs
       </Link>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
