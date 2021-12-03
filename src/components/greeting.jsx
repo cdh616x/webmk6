@@ -39,7 +39,7 @@ export default function Greeting() {
   <>
   <div className="container-fluid greeting">
   <h1 className="greeting">{whatTime} {word} {whatDay}!</h1>
-  <p className="greeting">I am Collin, a programmer</p>
+  <p className="greeting">I am Collin, a software developer</p>
   <h3>
           <a href="https://github.com/cdh616x/webmk2" target="_blank" rel="noreferrer">
             <i className="fab fa-github-square github" />
