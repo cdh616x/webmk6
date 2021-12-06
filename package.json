@@ -3,6 +3,7 @@
   "homepage": "https://www.cdhcreate.com",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://localhost:3000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
