@@ -10,7 +10,10 @@ export default function Carousel() {
             <h3>Education</h3>
             <h4>Leuphana Universität Lüneburg, Germany | Bachelor of Arts: Political Science (m.) philosophy</h4>
             <p>
-              Noteable things: Assimilated to a new culture, first experience with programming, learned to play guitar and played with my first band, became fluent in German
+              Noteable things: Assimilated to a new culture, first experience with programming,
+            </p>
+            <p>
+              learned to play guitar and played with my first band, became fluent in German
             </p>
           </div>
         </div>
