@@ -5,7 +5,8 @@ import AboutPic from "../images/me1.png";
 
 export default function About() {
   return (
-    <div className="container-fluid">
+    <div id="about-container" className="container-fluid">
+    <div id="aboutme" className="container-fluid">
       <div className="row d-flex flex-wrap align-items-center">
         <div className="col-lg-6 col-sm-6">
           <h2 className="jane">A little bit about me...</h2>
@@ -16,6 +17,7 @@ export default function About() {
           <img className="mx-auto d-block" src={AboutPic} alt="" />
         </div>
       </div>
+    </div>
     </div>
   )
 };

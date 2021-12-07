@@ -30,6 +30,19 @@ p.greeting {
   height: 500px;
 }
 
+#about-container {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#aboutme {
+  background-color: #FBF3E4;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
 .about-text, .jane {
   padding-left: 10%;
   padding-right: 10%;
@@ -43,7 +56,7 @@ p.greeting {
 }
 
 .about-text {
-  color: #FBF3E4;
+  color: black;
   font-family: "Enigmatic", sans-serif;
 }
 
