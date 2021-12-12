@@ -74,7 +74,7 @@ export default function Goodies() {
                 <h3>Sixes II - 2021</h3>
               </a>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/fairies" target="_blank">Fairies</a>
+                <a href="https://soundcloud.com/user-228624729/master-fairies?in=user-228624729/sets/three-songs&si=59a0b5ed639b44239a98cc1dff3a733b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Fairies</a>
               </h4>
               <h4>
                 <a href="https://soundcloud.com/user-228624729/master-keep-walkin-down-the?in=user-228624729/sets/three-songs&si=517d82c75fdd4a699cd61bce959b7cf1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Keep Walkin' Down the Road</a>
