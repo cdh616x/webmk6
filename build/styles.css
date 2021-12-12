@@ -115,6 +115,11 @@ p.greeting {
   text-align: center;
 }
 
+#music .col-sm-12 {
+  align-items: center;
+  text-align: center;
+}
+
 .bio {
   font-family: "Enigmatic", sans-serif;
   padding-left: 10%;

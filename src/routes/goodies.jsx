@@ -4,7 +4,7 @@ import React from "react";
 import Footer from "../components/footer.jsx";
 import Navbar from "../../src/components/navbar.jsx";
 import Sixes from "../../src/images/sixesep3.png";
-import Sixes2 from "../../src/images/sixesep2-edit.jpg";
+import Sixes2 from "../../src/images/sixesep2-edit2.jpg";
 import MissSin from "../../src/images/misssin2.png";
 
 export default function Goodies() {
