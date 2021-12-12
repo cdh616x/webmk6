@@ -28,6 +28,7 @@ p.greeting {
 
 .d-block {
   height: 500px;
+  margin: auto;
 }
 
 #about-container {
@@ -108,6 +109,10 @@ p.greeting {
   padding-right: 10%;
   padding-bottom: 10%;
   padding-top: 3%;
+}
+
+#music .sixes2 {
+  text-align: center;
 }
 
 .bio {

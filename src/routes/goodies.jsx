@@ -3,7 +3,9 @@ import React from "react";
 
 import Footer from "../components/footer.jsx";
 import Navbar from "../../src/components/navbar.jsx";
-import Sixes from "../../src/images/sixes.png";
+import Sixes from "../../src/images/sixesep3.png";
+import Sixes2 from "../../src/images/sixesep2-edit.jpg";
+import MissSin from "../../src/images/misssin2.png";
 
 export default function Goodies() {
   return (
@@ -33,7 +35,7 @@ export default function Goodies() {
           <div className="col">
             <a href="https://soundcloud.com/user-228624729" target="_blank">
               <div className="container-fluid">
-                <img className="img-fluid" src={Sixes} alt="" />
+                <img className="img-fluid d-block" src={Sixes} alt="" />
               </div>
               <h3>Sixes EP - 2019</h3>
             </a>
@@ -65,8 +67,70 @@ export default function Goodies() {
                 <a href="https://soundcloud.com/user-228624729/untitled" target="_blank">Untitled</a>
               </h4>
               <h5 className="album">This is my freshman album. It was recorded in September and October 2019 and is unmastered. My favorite songs include So Much To Do, the Water Song, I Got Mine, and Untitled.</h5>
+              <a href="https://soundcloud.com/user-228624729/sets/three-songs" target="_blank">
+                <div className="container-fluid">
+                  <img className="img-fluid d-block" src={Sixes2} alt="" />
+                </div>
+                <h3>Sixes II - 2021</h3>
+              </a>
+              <h4>
+                <a href="https://soundcloud.com/user-228624729/fairies" target="_blank">Fairies</a>
+              </h4>
+              <h4>
+                <a href="https://soundcloud.com/user-228624729/master-keep-walkin-down-the?in=user-228624729/sets/three-songs&si=517d82c75fdd4a699cd61bce959b7cf1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Keep Walkin' Down the Road</a>
+              </h4>
+              <h4>
+                <a href="https://soundcloud.com/user-228624729/repeater" target="_blank">Repeater</a>
+              </h4>
+              <h5 className="album sixes2">Three songs recorded over the period of a year or so...</h5>
           </div>
-        </div>
+          <a href="https://soundcloud.com/user-228624729" target="_blank">
+            <div className="container-fluid">
+              <img className="img-fluid d-block" src={MissSin} alt="" />
+            </div>
+            <h3>Miss Sinister - 2021</h3>
+          </a>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/goes-hard" target="_blank">Goes Hard</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/underground" target="_blank">Underground</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/techwah" target="_blank">TechWah</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/sinister" target="_blank">Sinister</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/shrubs" target="_blank">Shrubs</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/go-to-sleep" target="_blank">Go to Sleep</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/harvey" target="_blank">Harvey</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/d" target="_blank">D</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/austria" target="_blank">Austria</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/song-in-a-minor" target="_blank">Song in A Minor</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/the-mexican-groove" target="_blank">The Mexican Groove</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/goes-even-harder" target="_blank">Goes Even Harder</a>
+          </h4>
+          <h4>
+            <a href="https://soundcloud.com/user-228624729/feedback-baby?in=user-228624729/sets/miss-sinister-unfinished-album&si=261ca6444c32497a812b63374e5ad922&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Feedback, Baby</a>
+          </h4>
+          <h5 className="album">An unfinished album. Songs are diasporic in their completeness. The album will remain unfinished due to the breakdown of the band, Miss Sinister.</h5>
+            </div>
       </section>
     </div>
   </div>

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.51d597fb.chunk.js",
-    "main.js.map": "/static/js/main.51d597fb.chunk.js.map",
+    "main.js": "/static/js/main.dac241d5.chunk.js",
+    "main.js.map": "/static/js/main.dac241d5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.327e7669.js",
     "runtime-main.js.map": "/static/js/runtime-main.327e7669.js.map",
     "static/js/2.768ed625.chunk.js": "/static/js/2.768ed625.chunk.js",
@@ -13,12 +13,14 @@
     "static/media/drumkit.8212a333.png": "/static/media/drumkit.8212a333.png",
     "static/media/grower.281ee96d.png": "/static/media/grower.281ee96d.png",
     "static/media/me1.db6ed819.png": "/static/media/me1.db6ed819.png",
-    "static/media/sixes.e6d1fc12.png": "/static/media/sixes.e6d1fc12.png",
+    "static/media/misssin2.b7939e27.png": "/static/media/misssin2.b7939e27.png",
+    "static/media/sixesep2-edit.06cb982f.jpg": "/static/media/sixesep2-edit.06cb982f.jpg",
+    "static/media/sixesep3.6d68a4f6.png": "/static/media/sixesep3.6d68a4f6.png",
     "static/media/sss.798dbdc1.png": "/static/media/sss.798dbdc1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.327e7669.js",
     "static/js/2.768ed625.chunk.js",
-    "static/js/main.51d597fb.chunk.js"
+    "static/js/main.dac241d5.chunk.js"
   ]
 }
