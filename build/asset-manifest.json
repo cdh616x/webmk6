@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.js": "/static/js/main.a6a14458.chunk.js",
-    "main.js.map": "/static/js/main.a6a14458.chunk.js.map",
+    "main.js": "/static/js/main.be5c8401.chunk.js",
+    "main.js.map": "/static/js/main.be5c8401.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.327e7669.js",
     "runtime-main.js.map": "/static/js/runtime-main.327e7669.js.map",
     "static/js/2.768ed625.chunk.js": "/static/js/2.768ed625.chunk.js",
     "static/js/2.768ed625.chunk.js.map": "/static/js/2.768ed625.chunk.js.map",
     "index.html": "/index.html",
     "static/js/2.768ed625.chunk.js.LICENSE.txt": "/static/js/2.768ed625.chunk.js.LICENSE.txt",
+    "static/media/BA.67b18c68.png": "/static/media/BA.67b18c68.png",
     "static/media/Skull1.8d96034e.png": "/static/media/Skull1.8d96034e.png",
     "static/media/andy-site.beb5253f.png": "/static/media/andy-site.beb5253f.png",
     "static/media/drumkit.8212a333.png": "/static/media/drumkit.8212a333.png",
     "static/media/grower.281ee96d.png": "/static/media/grower.281ee96d.png",
     "static/media/me1.db6ed819.png": "/static/media/me1.db6ed819.png",
     "static/media/misssin2.b7939e27.png": "/static/media/misssin2.b7939e27.png",
-    "static/media/sixesep2-edit2.36870bf7.jpg": "/static/media/sixesep2-edit2.36870bf7.jpg",
+    "static/media/sixesep2-edit2.4ff687b3.jpg": "/static/media/sixesep2-edit2.4ff687b3.jpg",
     "static/media/sixesep3.6d68a4f6.png": "/static/media/sixesep3.6d68a4f6.png",
     "static/media/sss.798dbdc1.png": "/static/media/sss.798dbdc1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.327e7669.js",
     "static/js/2.768ed625.chunk.js",
-    "static/js/main.a6a14458.chunk.js"
+    "static/js/main.be5c8401.chunk.js"
   ]
 }

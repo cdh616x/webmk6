@@ -6,6 +6,7 @@ import Navbar from "../../src/components/navbar.jsx";
 import Sixes from "../../src/images/sixesep3.png";
 import Sixes2 from "../../src/images/sixesep2-edit2.jpg";
 import MissSin from "../../src/images/misssin2.png";
+import BachArb from "../../src/images/BA.png";
 
 export default function Goodies() {
   return (
@@ -26,6 +27,8 @@ export default function Goodies() {
           <p>I was an American in Germany, and a German student of Political Science. Here I had my first experience with programming (RStudio), playing guitar, and many of the other things that I enjoy to this day. I went to Germany seeking a path
             into the CIA, still unsure about whether that was the proper arena for my talents. After experiencing more of the world, I am now certain that software development is my industry-of-choice upon which to make an impact.</p>
         </div>
+        <h3 className="thesis">If you're interested, here's my Bachelor's thesis!</h3>
+        <img src={BachArb} className="img-fluid d-block" alt=""/>
       </section>
     </div>
     <div className="col-lg-6 col-sm-12">
@@ -129,7 +132,7 @@ export default function Goodies() {
           <h4>
             <a href="https://soundcloud.com/user-228624729/feedback-baby?in=user-228624729/sets/miss-sinister-unfinished-album&si=261ca6444c32497a812b63374e5ad922&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Feedback, Baby</a>
           </h4>
-          <h5 className="album">An unfinished album. Songs are diasporic in their completeness. The album will remain unfinished due to the breakdown of the band, Miss Sinister.</h5>
+          <h5 className="album">An unfinished album. Songs vary in their completeness. The album will remain unfinished due to the breakdown of the band, Miss Sinister.</h5>
             </div>
       </section>
     </div>
