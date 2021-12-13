@@ -7,6 +7,7 @@ import Sixes from "../../src/images/sixesep3.png";
 import Sixes2 from "../../src/images/sixesep2-edit2.jpg";
 import MissSin from "../../src/images/misssin2.png";
 import BachArb from "../../src/images/BA.png";
+import BachArbDownload from "../../src/pdf/BA-Final.pdf"
 
 export default function Goodies() {
   return (
@@ -28,7 +29,9 @@ export default function Goodies() {
             into the CIA, still unsure about whether that was the proper arena for my talents. After experiencing more of the world, I am now certain that software development is my industry-of-choice upon which to make an impact.</p>
         </div>
         <h3 className="thesis">If you're interested, here's my Bachelor's thesis!</h3>
+        <a href={BachArbDownload}>
         <img src={BachArb} className="img-fluid d-block" alt=""/>
+        </a>
       </section>
     </div>
     <div className="col-lg-6 col-sm-12">
