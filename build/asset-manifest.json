@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.35e1e0eb.chunk.js",
-    "main.js.map": "/static/js/main.35e1e0eb.chunk.js.map",
+    "main.js": "/static/js/main.8b759422.chunk.js",
+    "main.js.map": "/static/js/main.8b759422.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.327e7669.js",
     "runtime-main.js.map": "/static/js/runtime-main.327e7669.js.map",
     "static/js/2.768ed625.chunk.js": "/static/js/2.768ed625.chunk.js",
@@ -16,6 +16,8 @@
     "static/media/grower.281ee96d.png": "/static/media/grower.281ee96d.png",
     "static/media/me1.db6ed819.png": "/static/media/me1.db6ed819.png",
     "static/media/misssin2.b7939e27.png": "/static/media/misssin2.b7939e27.png",
+    "static/media/robots.2595dbab.png": "/static/media/robots.2595dbab.png",
+    "static/media/robots.4d19c535.pdf": "/static/media/robots.4d19c535.pdf",
     "static/media/sixesep2-edit2.4ff687b3.jpg": "/static/media/sixesep2-edit2.4ff687b3.jpg",
     "static/media/sixesep3.6d68a4f6.png": "/static/media/sixesep3.6d68a4f6.png",
     "static/media/sss.798dbdc1.png": "/static/media/sss.798dbdc1.png"
@@ -23,6 +25,6 @@
   "entrypoints": [
     "static/js/runtime-main.327e7669.js",
     "static/js/2.768ed625.chunk.js",
-    "static/js/main.35e1e0eb.chunk.js"
+    "static/js/main.8b759422.chunk.js"
   ]
 }

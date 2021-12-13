@@ -7,7 +7,9 @@ import Sixes from "../../src/images/sixesep3.png";
 import Sixes2 from "../../src/images/sixesep2-edit2.jpg";
 import MissSin from "../../src/images/misssin2.png";
 import BachArb from "../../src/images/BA.png";
-import BachArbDownload from "../../src/pdf/BA-Final.pdf"
+import BachArbDownload from "../../src/pdf/BA-Final.pdf";
+import Robot from "../../src/images/robots.png";
+import RobotDownlaod from "../../src/pdf/robots.pdf";
 
 export default function Goodies() {
   return (
@@ -31,6 +33,10 @@ export default function Goodies() {
         <h3 className="thesis">If you're interested, here's my Bachelor's thesis!</h3>
         <a href={BachArbDownload} target="_blank">
         <img src={BachArb} className="img-fluid d-block" alt=""/>
+        </a>
+        <h3 className="thesis">Here is another of my more interesting research papers; this paper explores the ins and outs of robot participation in democracy.</h3>
+        <a href={RobotDownlaod} target="_blank">
+        <img src={Robot} className="img-fluid d-block" alt="" />
         </a>
       </section>
     </div>

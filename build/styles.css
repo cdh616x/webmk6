@@ -133,6 +133,8 @@ p.greeting {
   font-size: 1.5vw;
   text-align: center;
   margin-bottom: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 #music a {
