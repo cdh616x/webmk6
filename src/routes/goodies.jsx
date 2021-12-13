@@ -29,7 +29,7 @@ export default function Goodies() {
             into the CIA, still unsure about whether that was the proper arena for my talents. After experiencing more of the world, I am now certain that software development is my industry-of-choice upon which to make an impact.</p>
         </div>
         <h3 className="thesis">If you're interested, here's my Bachelor's thesis!</h3>
-        <a href={BachArbDownload}>
+        <a href={BachArbDownload} target="_blank">
         <img src={BachArb} className="img-fluid d-block" alt=""/>
         </a>
       </section>
