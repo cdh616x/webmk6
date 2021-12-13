@@ -20,7 +20,7 @@ export default function Goodies() {
         <div className="container-fluid bio">
           <p>My name is Collin Hooper. Born in the late 90s in Grand Rapids, Michigan, I find myself learning all I possibly can about front- and backend development and applying that knowledge to my expanding portfolio of projects. I always knew
             that I would end up working with technology, but I was quite meandering and wayward in my search, not knowing I wanted to be a programmer until I was two years out of college.</p>
-          <p>Rockford High School offered a lot of resources to budding professionals, like a strong foreign language department, but unfortunately did not offer much in the way of computer science of programming. Originally, I wanted to be in the
+          <p>Rockford High School offered a lot of resources to budding professionals, like a strong foreign language department, but unfortunately did not offer much in the way of computer science or programming. Originally, I wanted to be in the
             CIA, and figured my knack for learning foreign languages would be conducive to that dream. Holding myself to the strict code that potential employees can find on the CIA's website, I yearned for the experience of travelling to foreign
             lands, and because I was learning the language, my eyes were set on Germany. First, I wanted to do a year abroad in high school, but because I would still have had to repeat a year upon my return, that option became invalid. I figured I
             would try for a year abroad again while I was attending college; after all, I was planning on studying foreign languages at an in-state university. After speaking with my German teacher and a year of obtaining particular certifications,
