@@ -177,8 +177,32 @@ p.greeting {
   font-family: "Enigmatic", sans-serif;
 }
 
+#img, h5 {
+  font-family: "Enigmatic", sans-serif;
+}
+
 .img-fluid {
   padding-bottom: 5%;
+}
+
+.proj, a {
+  color: #B91646;
+}
+
+.proj, a:hover {
+  color: #105652;
+}
+
+.mern {
+  background-color: white;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 10%;
+  border-radius: 25px;
+  font-family: "Enigmatic", sans-serif;
+  text-align: justify;
 }
 
 .contact {
