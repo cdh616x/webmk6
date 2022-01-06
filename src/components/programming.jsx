@@ -15,7 +15,7 @@ export default function Programming() {
             </div>
             <div className="card-text">
               <h5>HTML5, CSS3, JavaScript</h5>
-              <h5>React</h5>
+              <h5>React, Redux</h5>
               <h5>Bootstrap5</h5>
               <h5>jQuery & DOM manipulation</h5>
             </div>
@@ -30,7 +30,8 @@ export default function Programming() {
             </div>
             <div className="card-text">
               <h5>Node.js, Express</h5>
-              <h5>API use and integration</h5>
+              <h5>MongoDB Atlas</h5>
+              <h5>API integration</h5>
               <h5>Python</h5>
             </div>
           </div>
@@ -46,7 +47,7 @@ export default function Programming() {
               <h5>R, RStudio</h5>
               <h5>Git & Bash</h5>
               <h5>GitHub/Version Control Software</h5>
-              <h5>Experience with web hosting</h5>
+              <h5>Heroku, A2hosting</h5>
             </div>
           </div>
           </div>
