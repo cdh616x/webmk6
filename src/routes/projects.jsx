@@ -15,7 +15,7 @@ export default function Projects() {
      <Navbar />
       <section id="links">
       <div className="container-fluid proj">
-        <h1>Projects</h1>
+        <h1 className="projects">Project Links</h1>
         <p>
           <a href="https://afternoon-mountain-72202.herokuapp.com/auth/google" target="_blank">Emily - MERN stack app (in progress...)</a>
         </p>

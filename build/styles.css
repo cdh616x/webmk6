@@ -170,11 +170,17 @@ p.greeting {
   text-align: center;
 }
 
+.projects {
+  color: black;
+  text-decoration: underline;
+}
+
 .proj {
   padding-top: 5%;
   padding-bottom: 5%;
   text-align: center;
   font-family: "Enigmatic", sans-serif;
+  text-decoration: none;
 }
 
 #img, h5 {
@@ -187,6 +193,7 @@ p.greeting {
 
 .proj, a {
   color: #B91646;
+  text-decoration: none;
 }
 
 .proj, a:hover {
