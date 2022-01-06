@@ -31,11 +31,11 @@ export default function Goodies() {
             into the CIA, still unsure about whether that was the proper arena for my talents. After experiencing more of the world, I am now certain that software development is my industry-of-choice upon which to make an impact.</p>
         </div>
         <h3 className="thesis">If you're interested, here's my Bachelor's thesis!</h3>
-        <a href={BachArbDownload} target="_blank">
+        <a href={BachArbDownload} target="_blank" rel="noreferrer">
         <img src={BachArb} className="img-fluid d-block" alt=""/>
         </a>
         <h3 className="thesis">Here is another of my more interesting research papers; this paper explores the ins and outs of robot participation in democracy.</h3>
-        <a href={RobotDownlaod} target="_blank">
+        <a href={RobotDownlaod} target="_blank" rel="noreferrer">
         <img src={Robot} className="img-fluid d-block" alt="" />
         </a>
       </section>
@@ -45,95 +45,95 @@ export default function Goodies() {
         <h1>Goodies & Extras</h1>
         <div className="row">
           <div className="col">
-            <a href="https://soundcloud.com/user-228624729" target="_blank">
+            <a href="https://soundcloud.com/user-228624729" target="_blank" rel="noreferrer">
               <div className="container-fluid">
                 <img className="img-fluid d-block" src={Sixes} alt="" />
               </div>
               <h3>Sixes EP - 2019</h3>
             </a>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/mr-bones" target="_blank">Mr. Bones</a>
+                <a href="https://soundcloud.com/user-228624729/mr-bones" target="_blank" rel="noreferrer">Mr. Bones</a>
               </h4>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/track-one-composition-in-b" target="_blank">Track One - Composition in B Minor</a>
+                <a href="https://soundcloud.com/user-228624729/track-one-composition-in-b" target="_blank" rel="noreferrer">Track One - Composition in B Minor</a>
               </h4>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/so-much-to-do" target="_blank">So Much to Do</a>
+                <a href="https://soundcloud.com/user-228624729/so-much-to-do" target="_blank" rel="noreferrer">So Much to Do</a>
               </h4>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/see-me-now" target="_blank">See Me Now</a>
+                <a href="https://soundcloud.com/user-228624729/see-me-now" target="_blank" rel="noreferrer">See Me Now</a>
               </h4>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/when-the-time-comes" target="_blank">When the Time Comes</a>
+                <a href="https://soundcloud.com/user-228624729/when-the-time-comes" target="_blank" rel="noreferrer">When the Time Comes</a>
               </h4>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/the-water-song" target="_blank">The Water Song</a>
+                <a href="https://soundcloud.com/user-228624729/the-water-song" target="_blank" rel="noreferrer">The Water Song</a>
               </h4>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/track-two" target="_blank">Track Two</a>
+                <a href="https://soundcloud.com/user-228624729/track-two" target="_blank" rel="noreferrer">Track Two</a>
               </h4>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/i-got-mine" target="_blank">I Got Mine</a>
+                <a href="https://soundcloud.com/user-228624729/i-got-mine" target="_blank" rel="noreferrer">I Got Mine</a>
               </h4>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/untitled" target="_blank">Untitled</a>
+                <a href="https://soundcloud.com/user-228624729/untitled" target="_blank" rel="noreferrer">Untitled</a>
               </h4>
               <h5 className="album">This is my freshman album. It was recorded in September and October 2019 and is unmastered. My favorite songs include So Much To Do, the Water Song, I Got Mine, and Untitled.</h5>
-              <a href="https://soundcloud.com/user-228624729/sets/sixes-ep-2" target="_blank">
+              <a href="https://soundcloud.com/user-228624729/sets/sixes-ep-2" target="_blank" rel="noreferrer">
                 <div className="container-fluid">
                   <img className="img-fluid d-block" src={Sixes2} alt="" />
                 </div>
                 <h3>Sixes II - 2021</h3>
               </a>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/master-fairies?in=user-228624729/sets/sixes-ep-2" target="_blank">Fairies</a>
+                <a href="https://soundcloud.com/user-228624729/master-fairies?in=user-228624729/sets/sixes-ep-2" target="_blank" rel="noreferrer">Fairies</a>
               </h4>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/master-keep-walkin-down-the?in=user-228624729/sets/sixes-ep-2" target="_blank">Keep Walkin' Down the Road</a>
+                <a href="https://soundcloud.com/user-228624729/master-keep-walkin-down-the?in=user-228624729/sets/sixes-ep-2" target="_blank" rel="noreferrer">Keep Walkin' Down the Road</a>
               </h4>
               <h4>
-                <a href="https://soundcloud.com/user-228624729/master-repeater" target="_blank">Repeater</a>
+                <a href="https://soundcloud.com/user-228624729/master-repeater" target="_blank" rel="noreferrer">Repeater</a>
               </h4>
               <h5 className="album sixes2">Three songs recorded over the period of a year or so...</h5>
           </div>
-          <a href="https://soundcloud.com/user-228624729/sets/miss-sinister" target="_blank">
+          <a href="https://soundcloud.com/user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">
             <div className="container-fluid">
               <img className="img-fluid d-block" src={MissSin} alt="" />
             </div>
             <h3>Miss Sinister - 2021</h3>
           </a>
           <h4>
-            <a href="https://soundcloud.com/user-228624729/feedback-baby-samp?in=user-228624729/sets/miss-sinister" target="_blank">Feedback, Baby</a>
+            <a href="https://soundcloud.com/user-228624729/feedback-baby-samp?in=user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">Feedback, Baby</a>
           </h4>
           <h4>
-            <a href="https://soundcloud.com/user-228624729/d?in=user-228624729/sets/miss-sinister" target="_blank">D</a>
+            <a href="https://soundcloud.com/user-228624729/d?in=user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">D</a>
           </h4>
           <h4>
-            <a href="https://soundcloud.com/user-228624729/go-to-sleep?in=user-228624729/sets/miss-sinister" target="_blank">Go To Sleep</a>
+            <a href="https://soundcloud.com/user-228624729/go-to-sleep?in=user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">Go To Sleep</a>
           </h4>
           <h4>
-            <a href="https://soundcloud.com/user-228624729/underground?in=user-228624729/sets/miss-sinister" target="_blank">Underground</a>
+            <a href="https://soundcloud.com/user-228624729/underground?in=user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">Underground</a>
           </h4>
           <h4>
-            <a href="https://soundcloud.com/user-228624729/ray-gun?in=user-228624729/sets/miss-sinister" target="_blank">Ray Gun</a>
+            <a href="https://soundcloud.com/user-228624729/ray-gun?in=user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">Ray Gun</a>
           </h4>
           <h4>
-            <a href="https://soundcloud.com/user-228624729/bounce?in=user-228624729/sets/miss-sinister" target="_blank">Bounce</a>
+            <a href="https://soundcloud.com/user-228624729/bounce?in=user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">Bounce</a>
           </h4>
           <h4>
-            <a href="https://soundcloud.com/user-228624729/harvey-drums?in=user-228624729/sets/miss-sinister" target="_blank">Harvey</a>
+            <a href="https://soundcloud.com/user-228624729/harvey-drums?in=user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">Harvey</a>
           </h4>
           <h4>
-            <a href="https://soundcloud.com/user-228624729/sinister-drums?in=user-228624729/sets/miss-sinister" target="_blank">Sinister</a>
+            <a href="https://soundcloud.com/user-228624729/sinister-drums?in=user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">Sinister</a>
           </h4>
           <h4>
-            <a href="https://soundcloud.com/user-228624729/spanish-angels?in=user-228624729/sets/miss-sinister" target="_blank">Spanish Angels</a>
+            <a href="https://soundcloud.com/user-228624729/spanish-angels?in=user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">Spanish Angels</a>
           </h4>
           <h4>
-            <a href="https://soundcloud.com/user-228624729/xlyrics?in=user-228624729/sets/miss-sinister" target="_blank">X</a>
+            <a href="https://soundcloud.com/user-228624729/xlyrics?in=user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">X</a>
           </h4>
           <h4>
-            <a href="https://soundcloud.com/user-228624729/ylyrics?in=user-228624729/sets/miss-sinister" target="_blank">Y</a>
+            <a href="https://soundcloud.com/user-228624729/ylyrics?in=user-228624729/sets/miss-sinister" target="_blank" rel="noreferrer">Y</a>
           </h4>
           <h5 className="album">An unfinished album. Songs vary in completeness. The album will remain unfinished due to the breakdown of the band, Miss Sinister.</h5>
             </div>
