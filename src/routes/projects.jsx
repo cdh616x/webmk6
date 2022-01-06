@@ -34,6 +34,9 @@ export default function Projects() {
       </div>
     </section>
     <section id="img">
+    <a href="https://github.com/cdh616x/server" target="_blank">
+      <h3><i className="fab fa-github-square"><h5>Source Code</h5></i></h3>
+    </a>
       <div className="container-fluid mern">
         <h3>The full stack app (which uses the MERN stack) is a work in progress, but can still be visited to see progress that I have made. Basically, it will have you sign in using Google OAuth. Once that happens, little will occur (I said it was a work in progress!), but you can visit https://afternoon-mountain-72202.herokuapp.com/api/current_user which will display some banal items from your Google profile!</h3>
       </div>
