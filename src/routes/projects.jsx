@@ -1,7 +1,7 @@
 //jshint esversion:6
 import React from "react";
 
-import Footer from "../components/footer.jsx"
+import Footer from "../components/footer.jsx";
 
 import Navbar from "../../src/components/navbar.jsx";
 import Andy from "../images/andy-site.png";
