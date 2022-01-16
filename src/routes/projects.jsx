@@ -7,7 +7,7 @@ import Navbar from "../../src/components/navbar.jsx";
 import Andy from "../images/andy-site.png";
 import Ski from "../images/sss.png";
 import Drum from "../images/drumkit.png";
-import Grower from "../images/grower.png";
+import Grower from "../images/grower2.png";
 
 export default function Projects() {
   return(
@@ -49,7 +49,7 @@ export default function Projects() {
         </a>
       </div>
       <div class="container-fluid">
-        <a href="https://github.com/cdh616x/grower" target="_blank" rel="noreferrer">
+        <a href="https://github.com/cdh616x/grower-react" target="_blank" rel="noreferrer">
           <h3><i className="fab fa-github-square"><h5>Source Code</h5></i></h3>
         </a>
         <a href="https://cdh616x.github.io/grower/" target="_blank" rel="noreferrer">
