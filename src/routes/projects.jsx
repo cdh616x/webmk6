@@ -23,7 +23,7 @@ export default function Projects() {
           <a href="https://cdh616x.github.io/andy/" target="_blank" rel="noreferrer">Andy Shaw Illustrations</a>
         </p>
         <p>
-          <a href="https://cdh616x.github.io/grower/" target="_blank" rel="noreferrer">Grower's Edge</a>
+          <a href="https://cdh616x.github.io/grower-react/" target="_blank" rel="noreferrer">Grower's Edge</a>
         </p>
         <p>
           <a href="https://cdh616x.github.io/skis-sub-shop/" target="_blank" rel="noreferrer">Ski's Sub Shop</a>
