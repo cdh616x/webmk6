@@ -2,6 +2,7 @@
 
 import React from "react";
 import AboutPic from "../images/me1.png";
+import sill from "../images/me-white-sill.png";
 
 export default function About() {
   return (
@@ -14,7 +15,16 @@ export default function About() {
           <h5 className="about-text">As far as software development goes, lately I have been focusing on user-interface design and user experience. I am sharpening my skills to make truly beautiful websites with proprietary code. I am also learning backend processes and framworks, like Node.js and Express! If you have an idea for a project, I would love to hear about it!</h5>
         </div>
         <div className="col-lg-6 col-sm-6">
-          <img className="mx-auto d-block" src={AboutPic} alt="" />
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img src={AboutPic} class="d-block mx-auto" alt="..." />
+  </div>
+  <div class="carousel-item">
+    <img src={sill} class="d-block mx-auto" alt="..." />
+  </div>
+</div>
+</div>
         </div>
       </div>
     </div>
