@@ -52,7 +52,7 @@ export default function Projects() {
         <a href="https://github.com/cdh616x/grower-react" target="_blank" rel="noreferrer">
           <h3><i className="fab fa-github-square"><h5>Source Code</h5></i></h3>
         </a>
-        <a href="https://cdh616x.github.io/grower/" target="_blank" rel="noreferrer">
+        <a href="https://cdh616x.github.io/grower-react/" target="_blank" rel="noreferrer">
           <img className="img-fluid" src={Grower} alt="" />
         </a>
       </div>
