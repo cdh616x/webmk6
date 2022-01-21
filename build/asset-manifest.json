@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.7415cd4a.chunk.js",
-    "main.js.map": "/static/js/main.7415cd4a.chunk.js.map",
+    "main.js": "/static/js/main.679c6bc0.chunk.js",
+    "main.js.map": "/static/js/main.679c6bc0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.327e7669.js",
     "runtime-main.js.map": "/static/js/runtime-main.327e7669.js.map",
     "static/js/2.768ed625.chunk.js": "/static/js/2.768ed625.chunk.js",
@@ -10,9 +10,11 @@
     "static/js/2.768ed625.chunk.js.LICENSE.txt": "/static/js/2.768ed625.chunk.js.LICENSE.txt",
     "static/media/BA-Final.71e978e1.pdf": "/static/media/BA-Final.71e978e1.pdf",
     "static/media/BA.67b18c68.png": "/static/media/BA.67b18c68.png",
+    "static/media/Skull1.8d96034e.png": "/static/media/Skull1.8d96034e.png",
     "static/media/andy-site.beb5253f.png": "/static/media/andy-site.beb5253f.png",
     "static/media/drumkit.8212a333.png": "/static/media/drumkit.8212a333.png",
     "static/media/grower2.ab122828.png": "/static/media/grower2.ab122828.png",
+    "static/media/me-icon.922afe2d.png": "/static/media/me-icon.922afe2d.png",
     "static/media/me-white-sill.4ac17fe2.png": "/static/media/me-white-sill.4ac17fe2.png",
     "static/media/me1.db6ed819.png": "/static/media/me1.db6ed819.png",
     "static/media/misssin2.b7939e27.png": "/static/media/misssin2.b7939e27.png",
@@ -25,6 +27,6 @@
   "entrypoints": [
     "static/js/runtime-main.327e7669.js",
     "static/js/2.768ed625.chunk.js",
-    "static/js/main.7415cd4a.chunk.js"
+    "static/js/main.679c6bc0.chunk.js"
   ]
 }

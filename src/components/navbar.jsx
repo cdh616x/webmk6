@@ -2,15 +2,17 @@
 
 import React from "react";
 import { Link } from "react-router-dom";
-import sill from "../../src/images/me-white-sill.png";
+
+import skull from "../../src/images/Skull1.png";
+import sill from "../../src/images/me-icon.png";
 
 export default function Navbar() {
   return (
     <div>
     <nav className="navbar navbar-expand-lg navbar-light bg-#062743" style={{backgroundColor: "#B91646", fontFamily: "Enigmatic, sans serif"}}>
       <Link className="navbar-brand" to="/">
+      <img src={skull} className="img-fluid" style={{height: "50px"}} alt="mnm" />
           CDH Create
-          <img src={sill} className="img-fluid" style={{height: "75px"}} alt="mnm" />
       </Link>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
