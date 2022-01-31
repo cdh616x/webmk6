@@ -17,7 +17,7 @@ export default function Projects() {
       <div className="container-fluid proj">
         <h1 className="projects">Project Links</h1>
         <p>
-          <a href="https://afternoon-mountain-72202.herokuapp.com/auth/google" target="_blank" rel="noreferrer">Emily - MERN stack app (in progress...)</a>
+          <a href="https://morning-refuge-84284.herokuapp.com/" target="_blank" rel="noreferrer">Tafel (Personal Message Board App)</a>
         </p>
         <p>
           <a href="https://cdh616x.github.io/andy/" target="_blank" rel="noreferrer">Andy Shaw Illustrations</a>
@@ -35,10 +35,10 @@ export default function Projects() {
     </section>
     <section id="img">
       <div className="container-fluid mern">
-      <a href="https://github.com/cdh616x/server" target="_blank" rel="noreferrer">
+      <a href="https://github.com/cdh616x/tafel" target="_blank" rel="noreferrer">
         <h3><i className="fab fa-github-square"><h5>Source Code</h5></i></h3>
       </a>
-        <h3>The full stack app (which uses the MERN stack) is a work in progress, but can still be visited to see progress that I have made. Basically, it will have you sign in using Google OAuth. Once that happens, little will occur (I said it was a work in progress!), but you can visit https://afternoon-mountain-72202.herokuapp.com/api/current_user which will display some banal items from your Google profile!</h3>
+        <h3>Tafel is a personal message board application. I am currently using Tafel as a simple add and delete checklist but plan to continue development in the realm of user authentication and personal datapools for different users, so one can see their own Tafel, not just mine! - https://morning-refuge-84284.herokuapp.com/ - Tafel is my first full stack application. It utilizes Nodejs and Express to serve data to the frontend, composed of Pug templates, and the MongoDB database that stores the information for the app (username and message).</h3>
       </div>
       <div className="container-fluid">
         <a href="https://github.com/cdh616x/andy" target="_blank" rel="noreferrer">
