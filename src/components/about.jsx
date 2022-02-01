@@ -18,10 +18,10 @@ export default function About() {
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
 <div class="carousel-inner">
   <div class="carousel-item active">
-    <img src={AboutPic} class="d-block mx-auto" alt="..." />
+    <img src={AboutPic} className="d-block mx-auto" alt="..." />
   </div>
   <div class="carousel-item">
-    <img src={sill} class="d-block mx-auto" alt="..." />
+    <img src={sill} className="d-block mx-auto" alt="..." />
   </div>
 </div>
 </div>
