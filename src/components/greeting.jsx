@@ -41,7 +41,7 @@ export default function Greeting() {
   <h1 className="greeting">{whatTime} {word} {whatDay}!</h1>
   <p className="greeting">I am Collin, a software developer</p>
   <h3>
-          <a href="https://github.com/cdh616x/webmk2" target="_blank" rel="noreferrer">
+          <a href="https://github.com/cdh616x/webmk6" target="_blank" rel="noreferrer">
             <i className="fab fa-github-square github" />
           </a>
           ||
