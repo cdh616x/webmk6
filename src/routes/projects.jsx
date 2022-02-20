@@ -17,6 +17,9 @@ export default function Projects() {
       <div className="container-fluid proj">
         <h1 className="projects">Project Links</h1>
         <p>
+          <a href="https://clscribe.herokuapp.com/" target="_blank" rel="noreferrer">CLScribe (Cover Letter Writer)</a>
+        </p>
+        <p>
           <a href="https://morning-refuge-84284.herokuapp.com/" target="_blank" rel="noreferrer">Tafel (Personal Message Board App)</a>
         </p>
         <p>
@@ -34,6 +37,13 @@ export default function Projects() {
       </div>
     </section>
     <section id="img">
+      <div className="container-fluid mern">
+       <a href="https://github.com/cdh616x/CLScribe-flask" target="_blank" rel="noreferrer">
+        <h3><i className="fab fa-github-square"><h5>Source Code</h5></i></h3>
+       </a>
+       <h3>CLScribe is my first Flask application. The backend was built using Python; it compiles the user's input into a .docx document (Word or Pages) and allows the user
+       to the download a new file with the user's inut separated into appropriate paragraphs.</h3>
+      </div>
       <div className="container-fluid mern">
       <a href="https://github.com/cdh616x/tafel" target="_blank" rel="noreferrer">
         <h3><i className="fab fa-github-square"><h5>Source Code</h5></i></h3>
