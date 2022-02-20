@@ -42,7 +42,7 @@ export default function Projects() {
         <h3><i className="fab fa-github-square"><h5>Source Code</h5></i></h3>
        </a>
        <h3>CLScribe is my first Flask application. The backend was built using Python; it compiles the user's input into a .docx document (Word or Pages) and allows the user
-       to the download a new file with the user's inut separated into appropriate paragraphs.</h3>
+       to the download a new file with the user's input separated into appropriate paragraphs and ready to send to pontential employers.</h3>
       </div>
       <div className="container-fluid mern">
       <a href="https://github.com/cdh616x/tafel" target="_blank" rel="noreferrer">
