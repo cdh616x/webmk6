@@ -2,7 +2,9 @@
 import React from "react";
 
 import Footer from "../components/footer.jsx";
+import Form from "../../src/components/form.jsx";
 import Navbar from "../../src/components/navbar.jsx";
+
 
 export default function Contact() {
   return(
@@ -12,6 +14,7 @@ export default function Contact() {
       <a href="mailto:cdhprof@gmail.com">
       <h2 className="contact">In the mean-time, shoot me an email by clicking here!</h2>
       </a>
+      <Form />
     <Footer />
     </>
   );
