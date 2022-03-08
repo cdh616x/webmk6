@@ -13,16 +13,18 @@ export default function ContactForm() {
       email: email.value,
       message: message.value,
     };
-    let response = await fetch("https://pa3xwrbso9.execute-api.us-east-1.amazonaws.com/default/webmk6-email", {
+    // console.log(details);
+
+    let response = await fetch("https://kzxrv9xi9f.execute-api.us-east-1.amazonaws.com/default/emailFunction", {
       method: "POST",
       headers: {
         "Content-Type": "application/json;charset=utf-8",
       },
-      body: JSON.stringify(details),
+      body: JSON.stringify(details)
     });
     setStatus("Submit");
     let result = await response.json();
-    alert(result.status);
+    // console.log(result);
   };
   return (
     <form onSubmit={handleSubmit}>
