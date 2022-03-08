@@ -231,12 +231,13 @@ form .submit {
 }
 
 form input, form textarea {
+  padding: .2% .2% .2%;
   margin: 2% 0 0;
   width: 50%;
 }
 
 form textarea {
-  padding: 0 0 10%;
+  padding: .2% .2% 10%;
 }
 
 body {
