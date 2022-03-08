@@ -222,7 +222,22 @@ p.greeting {
   text-decoration: none;
 }
 
+form {
+  padding-left: 2%;
+}
 
+form .submit {
+  text-align: right;
+}
+
+form input, form textarea {
+  margin: 2% 0 0;
+  width: 50%;
+}
+
+form textarea {
+  padding: 0 0 10%;
+}
 
 body {
   background: linear-gradient(#FBF3E4, #105652);

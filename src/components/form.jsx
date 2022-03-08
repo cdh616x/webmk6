@@ -29,18 +29,15 @@ export default function ContactForm() {
   return (
     <form onSubmit={handleSubmit}>
       <div>
-        <label htmlFor="name">Name:</label>
-        <input type="text" id="name" required />
+        <input type="text" id="name" placeholder="Name" required />
       </div>
       <div>
-        <label htmlFor="email">Email:</label>
-        <input type="email" id="email" required />
+        <input type="email" id="email" placeholder="polyethelene_pam@abbeyroad.com" required />
       </div>
       <div>
-        <label htmlFor="message">Message:</label>
-        <textarea id="message" required />
+        <textarea id="message" placeholder="Please construct your message here!" required />
       </div>
-      <button type="submit">{status}</button>
+      <button class="submit" type="submit">{status}</button>
     </form>
   );
 };
