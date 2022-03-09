@@ -23,7 +23,7 @@ export default function Projects() {
           <a href="https://morning-refuge-84284.herokuapp.com/" target="_blank" rel="noreferrer">Tafel (Personal Message Board App)</a>
         </p>
         <p>
-          <a href="https://cdh616x.github.io/andy/" target="_blank" rel="noreferrer">Andy Shaw Illustrations</a>
+          <a href="https://cdh616x.github.io/andy-react/" target="_blank" rel="noreferrer">Andy Shaw Illustrations</a>
         </p>
         <p>
           <a href="https://cdh616x.github.io/grower-react/" target="_blank" rel="noreferrer">Grower's Edge</a>
@@ -51,7 +51,7 @@ export default function Projects() {
         <h3>Tafel is a personal message board application. I am currently using Tafel as a simple add and delete checklist but plan to continue development in the realm of user authentication and personal datapools for different users, so one can see their own Tafel, not just mine! - https://morning-refuge-84284.herokuapp.com/ - Tafel is my first full stack application. It utilizes Nodejs and Express to serve data to the frontend, composed of Pug templates, and the MongoDB database that stores the information for the app (username and message).</h3>
       </div>
       <div className="container-fluid">
-        <a href="https://github.com/cdh616x/andy" target="_blank" rel="noreferrer">
+        <a href="https://github.com/cdh616x/andy-react" target="_blank" rel="noreferrer">
           <h3><i className="fab fa-github-square"><h5>Source Code</h5></i></h3>
         </a>
         <a href="https://cdh616x.github.io/andy/" target="_blank" rel="noreferrer">

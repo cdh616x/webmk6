@@ -212,16 +212,6 @@ p.greeting {
   text-align: justify;
 }
 
-.contact {
-  color: #FBF3E4;
-  font-family: "Enigmatic", sans-serif;
-  text-align: center;
-}
-
-.contact a h2{
-  text-decoration: none;
-}
-
 form {
   padding-left: 2%;
 }
