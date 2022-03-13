@@ -15,7 +15,7 @@ export default function ContactForm() {
     };
     // console.log(details);
 
-    let response = await fetch("https://kzxrv9xi9f.execute-api.us-east-1.amazonaws.com/default/emailFunction", {
+    let response = await fetch("https://kzxrv9xi9f.execute-api.us-east-1.amazonaws.com/default", {
       method: "POST",
       headers: {
         "Content-Type": "application/json;charset=utf-8",
