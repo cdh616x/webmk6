@@ -212,6 +212,12 @@ p.greeting {
   text-align: justify;
 }
 
+.emailform {
+  padding: 2% 0 0;
+  text-align: center;
+  font-family: "Enigmatic", sans-serif;
+}
+
 form {
   padding-left: 2%;
 }
